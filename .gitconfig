@@ -1,7 +1,6 @@
 [user]
     email = phil.huang@microsoft.com
     name = Phil Huang
-    signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBxCSmJDHapZE0XcSGU2LahrbcsgivpKzyIJvbXLFpK9
 [gpg]
     format = ssh
 [core]
