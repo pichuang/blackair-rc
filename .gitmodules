@@ -1,0 +1,3 @@
+[submodule "tools/deadman"]
+	path = tools/deadman
+	url = https://github.com/upa/deadman
