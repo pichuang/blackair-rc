@@ -6,4 +6,5 @@
 git clone https://github.com/pichuang/blackair-rc .blackair-rc
 cd ./.blackair-rc
 ./install.sh
+git submodule update --init --recursive
 ```
